@@ -40,7 +40,7 @@ section {
 }
 
 button {
-    background-color: #00509e;
+    background-color: #612364;
     color: #fff;
     padding: 10px 15px;
     border: none;
@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-    background-color: #003f7f;
+    background-color: #612389;
 }
 
 #editable-text {
